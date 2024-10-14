@@ -1,0 +1,7 @@
+{
+    "components": [
+        "./src/components/ui/button.jsx",
+        "./src/components/ui/input.jsx",
+        "./src/components/ui/checkbox.jsx"
+    ]
+}
